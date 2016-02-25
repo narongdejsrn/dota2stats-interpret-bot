@@ -1,4 +1,4 @@
-import pprint
+import pprint, os
 import json, jsonpickle
 from dotamatch import get_key
 from dotamatch.history import MatchHistoryBySequenceNum
